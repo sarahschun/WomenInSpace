@@ -1,9 +1,12 @@
 .tr {
+  margin-left: 121px;
+  margin-top: 1px;
+  background: transparent;
   background-color: black;
   border: 2px;
   color: white;
-  padding: 15px 32px;
-  opacity: 40%;
+  padding: 5px 32px;
+  opacity: 45%;
   border-style: solid;
   text-align: center;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
