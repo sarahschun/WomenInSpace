@@ -8,6 +8,14 @@ html {
   box-sizing: inherit;
 }
 
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html {
   -ms-text-size-adjust: 100%;
