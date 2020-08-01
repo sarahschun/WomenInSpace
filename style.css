@@ -1053,6 +1053,10 @@ a {
 .w3-opacity-min {
   opacity: 0.75;
 }
+.cropimg {
+  position: absolute;
+  clip: rect(0px, 0px, 50px, 0px);
+}
 .w3-greyscale-max,
 .w3-grayscale-max,
 .w3-hover-greyscale:hover,
