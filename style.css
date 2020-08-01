@@ -358,7 +358,7 @@ a {
 }
 .w3-tooltip,
 .w3-display-container {
-  position: relative;
+  position: absolute;
 }
 .w3-tooltip .w3-text {
   display: none;
