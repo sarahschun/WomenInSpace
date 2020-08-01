@@ -1,6 +1,6 @@
 .tr {
   margin-left: 121px;
-  margin-top: 1px;
+  margin-top: 20px;
   background: transparent;
   background-color: black;
   border: 2px;
@@ -9,10 +9,8 @@
   opacity: 45%;
   border-style: solid;
   text-align: center;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: initial;
 
-  display: inline-block;
   font-size: 16px;
 }
 
